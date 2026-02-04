@@ -17,8 +17,8 @@ local Settings = {
 	WallCheck = false,
 	FOV = 100,
 	Part = "Head",
-	FOVVisible = true,
-	RGB = true,
+	FOVVisible = false,
+	RGB = false,
 	AimStrength = 0.5,
 }
 
